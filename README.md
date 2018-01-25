@@ -1,5 +1,5 @@
 # Doge
-./autogen.sh
+[./autogen.sh
 ./configure
 make
-make install
+make install]
