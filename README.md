@@ -1,1 +1,2 @@
 # Doge
+make install
